@@ -1,0 +1,8 @@
+com\testcode\TeamRepository.class
+com\testcode\AppController.class
+com\testcode\AppMain.class
+com\testcode\Team.class
+com\testcode\TeamService.class
+com\test\country\Country.class
+com\test\country\CountryRepository.class
+com\test\country\CountryService.class

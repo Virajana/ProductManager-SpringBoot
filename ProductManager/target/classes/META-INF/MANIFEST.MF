@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rajith
+Build-Jdk: 11.0.4
+Implementation-Title: TeamManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.testcode
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/TeamManager
+Created-By: Maven Integration for Eclipse
+
